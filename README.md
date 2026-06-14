@@ -6,10 +6,10 @@
 
 A request-reply integration where Salesforce makes an Apex callout to a Python FastAPI endpoint, which calls the Claude API and returns the response back to Salesforce.
 
-![Salesforce](https://img.shields.io/badge/Salesforce-Apex-00A1E0?logo=salesforce&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-API-D97757?logo=anthropic&logoColor=white)
+[![Salesforce](https://img.shields.io/badge/Salesforce-Apex-00A1E0?logo=salesforce&logoColor=white)](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/)
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Anthropic](https://img.shields.io/badge/Claude-API-D97757?logo=anthropic&logoColor=white)](https://docs.claude.com/)
 
 </div>
 
