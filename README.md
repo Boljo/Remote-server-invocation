@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔄 Remote Process Invocation
+# 💻 Remote Process Invocation
 
 ### Salesforce → FastAPI → Claude
 
