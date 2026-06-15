@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 Remote Process Invocation
+# 💻 Remote Process Invocation - Inspired by https://trailhead.salesforce.com/content/learn/modules/app-integration-patterns/app-integration-patterns-3?trail_id=explore-integration-patterns-and-practices
 
 ### Salesforce → FastAPI → Claude
 
